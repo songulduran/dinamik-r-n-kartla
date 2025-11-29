@@ -1,1 +1,47 @@
-# dinamik-r-n-kartla
+📘 Dinamik Ürün Kartları Uygulaması
+
+Bu proje, JavaScript aracılığıyla dinamik ürün kartlarının saklanması için hazırlanmış bir web uygulamasıdır. Kullanıcı, görüntülenecek ürün sayısını seçer ve kartlar tamamen JavaScript tarafından otomatik olarak oluşturulur.
+
+🌐 Canlı Demo
+
+Projeyi buradan görüntüleyebilirsiniz: ➡️
+
+📂 Proje Yapısı /dinamik-rn-kartlaru │── index.html │── style.css └── app.js
+
+🎯 Projenin Amacı
+
+JavaScript'te konunun, dizi ve DOM değişiminin belirlenmesi
+
+Dinamik olarak HTML içerik üretimi
+
+Ürün parçaları listelenmek ve çalıştırılarak stillendirme yapılır
+
+Basit, işlevsel ve düzenli bir gelir geliştirme
+
+🧩 Özellikler
+
+✔ Kullanıcının kaç ürün genel görünümü ✔ Ürün bilgileri JavaScript'teki diziden alınır ✔ Kartlar tamamen dinamik olarak oluşturulur (HTML içinde hazır kart yoktur) ✔ 10.000 TL'den pahalı ürünler özel arka plan renginde gösterilir ✔ Her kartta:
+
+Ürün adı
+
+Fiyat
+
+Resim bulunur ✔ Responsive uyumludur
+
+🛠 Kullanılan Teknolojiler
+
+HTML5
+
+CSS3
+
+JavaScript
+
+🚀 Nasıl Kullanılır?
+
+Sayfadaki giriş alanı gösterilecek ürün sayıları yazın
+
+“Oluştur” butonuna tıklayın
+
+Kartlar otomatik olarak listelenir
+
+Fiyatı 10.000 TL'den yüksek ürünler kırmızımsı arka planla vurgulanır
